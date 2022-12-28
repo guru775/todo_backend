@@ -1,0 +1,29 @@
+{
+  "name": "todo_backend",
+  "version": "1.0.0",
+  "description": "exp, db",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guru775/todo_backend.git"
+  },
+  "keywords": [
+    "exp",
+    "db"
+  ],
+  "author": "Guru Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guru775/todo_backend/issues"
+  },
+  "homepage": "https://github.com/guru775/todo_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
